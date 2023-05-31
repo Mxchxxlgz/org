@@ -84,7 +84,7 @@ const Formulario = (props) => {
                 actualizarValor={actualizarColor}
                 type="color"
             />
-            <Boton>Registrar Equipo Brr</Boton>
+            <Boton>Click para Registrar Equipo </Boton>
         </form>
     </section>
 }
